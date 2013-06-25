@@ -268,7 +268,7 @@ could quickly make a histogram of the intensity dimension:
         plt.title("Histogram of the Intensity Dimension")
         plt.show()
 
-    .. image:: ./_static/tutorial_histogram.png 
+    .. image:: ../_static/tutorial_histogram.png 
         :width: 600
 
         

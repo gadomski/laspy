@@ -10,7 +10,7 @@ Contents:
     :maxdepth: 4
 
     background
-    tutorial
+    tutorial/index
     apps
     api
 
