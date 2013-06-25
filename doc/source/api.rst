@@ -1,4 +1,3 @@
-
 API Documentation
 =================
 
@@ -7,6 +6,3 @@ API Documentation
     header
     base
     util
-
-
-

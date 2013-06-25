@@ -9,8 +9,10 @@ Contents:
 .. toctree::
     :maxdepth: 4
 
+    background
     tutorial
-    source
+    apps
+    api
 
 Indices and tables
 ==================
@@ -18,4 +20,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
