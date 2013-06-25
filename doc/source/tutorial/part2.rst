@@ -1,5 +1,5 @@
-The more complicated stuff
-==========================
+Tutorial Part II: The more complicated stuff
+============================================
 
 
 Using laspy's public api from :obj:`laspy.file.File` and :obj:`laspy.header.HeaderManager`

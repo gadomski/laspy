@@ -1,5 +1,5 @@
-Laspy Tools
-===========
+Command Line Apps
+=================
 
 Laspy comes with several command line utilities which use the library. When laspy 
 is installed with setup.py, these scripts are built and installed by setuptools, 
