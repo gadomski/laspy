@@ -10,13 +10,13 @@ For reading and writing many different flavors of three-dimensional pointcloud f
 Installation
 ------------
 
-The simplest way to install **laspy** is to use `PyPI`_::
+The simplest way to install laspy is to use `PyPI`_::
 
     (sudo) pip install laspy
 
-If you are installing **laspy** to a system directory, you might need the **sudo**.   
+If you are installing laspy to a system directory, you might need the **sudo**.   
 
-You may also install **laspy** the old-fashioned way::
+You may also install laspy the old-fashioned way::
 
     python setup.py build
     python setup.py install 
@@ -33,7 +33,7 @@ If you have an issue or bug you'd like to report, please use `Github issues`_ to
 Contributing
 ------------
 
-Contributions to **laspy** are very welcome.
+Contributions to laspy are very welcome.
 Simply `create a pull request`_ on `grantbrown/laspy`_ to send us your patch!
 
 
