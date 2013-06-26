@@ -1,9 +1,9 @@
 LAS Read-Writer in Python
 =========================
 
-**Laspy** is a Python library for reading, modifying and creating `.LAS point cloud data files`_.
+Laspy is a Python library for reading, modifying and creating `.LAS point cloud data files`_.
 API Documentation and tutorials are available at http://www.laspy.org/.
-**Laspy** was inspired by `liblas`_.
+Laspy was inspired by `liblas`_.
 For reading and writing many different flavors of three-dimensional pointcloud files, check out `PDAL`_.
 
 
@@ -14,7 +14,7 @@ The simplest way to install laspy is to use `PyPI`_::
 
     (sudo) pip install laspy
 
-If you are installing laspy to a system directory, you might need the **sudo**.   
+If you are installing laspy to a system directory, you might need the sudo.   
 
 You may also install laspy the old-fashioned way::
 
